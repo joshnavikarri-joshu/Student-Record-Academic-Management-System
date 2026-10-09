@@ -1,5 +1,5 @@
-# Student-Record-Academic-Management-System.
-Python-based Student Record and Academic Management System using lists, tuples, sets, dictionaries, and strings. -
+# Student Record and Academic Management System
+Python-based Student Record and Academic Management System using strings, lists, tuples, sets, and dictionaries.
 KARRI JOSHNAVI
 STUDENT RECORD AND ACADEMIC MANAGEMENT SYSTEM
 Data Organization using Python
@@ -69,5 +69,4 @@ KARRI_JOSHNAVI_Student_Record_Academic_Management_System_UPDATED.pdf
 
 GITHUB
 ------
-After uploading the project to GitHub, add your actual repository URL here:
-[Paste your GitHub repository URL here]
+GitHub repository: https://github.com/joshnavikarri-joshu/Student-Record-Academic-Management-System.
