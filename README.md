@@ -10,7 +10,7 @@ A menu-driven Python project for managing student academic records. It demonstra
 - **Division:** B
 - **University:** Sanjivani University
 
-> Personal identifier/PNR intentionally omitted from this public README.
+> Personal identifier intentionally omitted from this public README.
 
 ## Features
 
@@ -56,6 +56,5 @@ The program stores records in memory only. Records entered during a session are 
 
 ## GitHub Repository
 
-Current repository URL (update this if the repository is renamed):
-https://github.com/joshnavikarri-joshu/Student-Record-Academic-Management-System.
+https://github.com/joshnavikarri-joshu/Student-Record-Academic-Management-System
 
