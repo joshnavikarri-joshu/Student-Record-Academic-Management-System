@@ -10,7 +10,7 @@ Year: First Year
 Division: B
 University: Sanjivani University
 
-Note: Personal identifier/PNR intentionally omitted from this public README.
+Note: Personal identifier intentionally omitted from this public README.
 
 PROJECT DESCRIPTION
 -------------------
@@ -67,5 +67,5 @@ KARRI_JOSHNAVI_Student_Record_Academic_Management_System_UPDATED.pdf
 
 GITHUB REPOSITORY
 -----------------
-Current URL (update this if the repository is renamed):
-https://github.com/joshnavikarri-joshu/Student-Record-Academic-Management-System.
+Repository URL:
+https://github.com/joshnavikarri-joshu/Student-Record-Academic-Management-System
