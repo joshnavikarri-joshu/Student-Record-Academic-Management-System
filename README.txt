@@ -2,14 +2,15 @@ KARRI JOSHNAVI
 STUDENT RECORD AND ACADEMIC MANAGEMENT SYSTEM
 Data Organization using Python
 
-STUDENT DETAILS
----------------
+STUDENT / COURSE DETAILS
+------------------------
 Student: KARRI JOSHNAVI
-Program: B.Tech - AIML
+Program: B.Tech - AI & ML
 Year: First Year
 Division: B
 University: Sanjivani University
-PNR: 2126UMLF1265
+
+Note: Personal identifier/PNR intentionally omitted from this public README.
 
 PROJECT DESCRIPTION
 -------------------
@@ -23,7 +24,7 @@ FEATURES
 3. Update a student record
 4. Delete a student record
 5. Display student records
-6. Calculate a student's average marks
+6. Calculate average marks
 7. Generate an academic summary report
 8. Find the highest scorer
 9. List students by department
@@ -36,8 +37,8 @@ REQUIREMENTS
 
 HOW TO RUN
 ----------
-1. Keep this README.txt and the Python file in the same folder.
-2. Open a terminal or Command Prompt in that folder.
+1. Download or clone this repository.
+2. Open a terminal or Command Prompt in the project folder.
 3. Run this command:
 
    python KARRI_JOSHNAVI_Student_Record_Academic_Management_System.py
@@ -51,21 +52,20 @@ This project stores records in memory while the program is running.
 Records added during a session are not saved permanently. They are reset
 when the program exits.
 
-FILES
------
+PROJECT FILES
+-------------
 KARRI_JOSHNAVI_Student_Record_Academic_Management_System.py
-    The Python source code.
-
+    Python source code.
+README.md
+    Main project instructions displayed on GitHub.
 README.txt
-    Project description and run instructions.
-
+    Plain-text project instructions.
 KARRI_JOSHNAVI_Student_Record_Academic_Management_System_UPDATED.docx
     Word assignment report.
-
 KARRI_JOSHNAVI_Student_Record_Academic_Management_System_UPDATED.pdf
     PDF version of the assignment report.
 
-GITHUB
-------
-After uploading the project to GitHub, add your actual repository URL here:
-[Paste your GitHub repository URL here]
+GITHUB REPOSITORY
+-----------------
+Current URL (update this if the repository is renamed):
+https://github.com/joshnavikarri-joshu/Student-Record-Academic-Management-System.
